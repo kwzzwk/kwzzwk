@@ -11,7 +11,6 @@ Basic "coder"
 ### Tools:
    - <img alt="VSCode" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /> Visual Studio Code<br />
    - <img alt="Replit" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/2048px-New_Replit_Logo.svg.png" /> Replit<br />
-   - <img alt="Xampp" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" /> Xampp<br />
 
 ### Contact:
    - Discord: **kwzzwk**
