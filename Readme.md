@@ -1,6 +1,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=kwzzwk&color=blueviolet)
 
-Basic "coder" 
+
 ---
 
 ### Languages:
