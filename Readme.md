@@ -4,8 +4,8 @@
 ---
 
 ### Languages:
-   - <img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript<br />
-   - <img alt="Lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua<br />
+   <img alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> JavaScript<br />
+   <img alt="Lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /> Lua<br />
    - <img alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" /> HTML<br />
 
 ### Tools:
