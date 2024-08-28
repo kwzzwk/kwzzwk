@@ -1,9 +1,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=kwzzwk&color=blueviolet)
 
 
----
 
-### Languages:
 <div align="center">
   <h3 align="center">Languages</h3>
   <img alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
