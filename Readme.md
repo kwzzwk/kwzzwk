@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center" style="color: green;">Visitor Count</h1>
   <img 
-    src="https://komarev.com/ghpvc/?username=kwzzwk&color=blueviolet" 
+    src="https://komarev.com/ghpvc/?username=kwzzwk&color=green" 
     alt="Visitor Count" 
-    style="border-radius: 15px; height: 50px; width: 250px;"
+    style="border-radius: 15px; height: 50px; width: 270px;"
   />
 </div>
 
