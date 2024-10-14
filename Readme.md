@@ -1,4 +1,12 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=kwzzwk&color=blueviolet)
+<div align="center">
+  <h1 align="center" style="color: green;">Visitor Count</h1>
+  <img 
+    src="https://komarev.com/ghpvc/?username=kwzzwk&color=blueviolet" 
+    alt="Visitor Count" 
+    style="border-radius: 15px; height: 50px; width: 250px;"
+  />
+</div>
+
 
 <div align="center">
   <h1 align="center" style="color: green;">Languages</h1>
