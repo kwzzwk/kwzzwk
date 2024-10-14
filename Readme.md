@@ -2,7 +2,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=kwzzwk&color=green" 
     alt="Visitor Count" 
-    style="border-radius: 4px; height: 30px; width: 270px;"
+    style="border-radius: 4px; height: 30px; width: 220px;"
   />
 </div>
 
