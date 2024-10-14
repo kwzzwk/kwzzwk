@@ -1,5 +1,4 @@
 <div align="center">
-  <h1 align="center" style="color: green;">Visitor Count</h1>
   <img 
     src="https://komarev.com/ghpvc/?username=kwzzwk&color=green" 
     alt="Visitor Count" 
