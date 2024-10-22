@@ -6,9 +6,6 @@
   />
 </div>
 
-<a href="https://github.com/testaustime/">
-    <img src="http://github-readme-testaustime.vercel.app/api/testaustime?username=kwzzwk"/>
-</a>
 
 <div align="center">
   <h1 align="center" style="color: green;">Languages</h1>
@@ -28,6 +25,10 @@
    - Discord: **kwzzwk**
 
 ---
+
+<a href="https://github.com/testaustime/">
+    <img src="http://github-readme-testaustime.vercel.app/api/testaustime?username=kwzzwk"/>
+</a>
 
 ![kwzzwk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwzzwk&show_icons=true&theme=tokyonight)
 
