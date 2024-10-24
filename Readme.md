@@ -30,7 +30,7 @@
     <img src="http://github-readme-testaustime.vercel.app/api/testaustime?username=kwzzwk&theme=dark"/>
 </a>
 
-![kwzzwk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwzzwk&show_icons=true&theme=tokyonight)
+![kwzzwk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwzzwk&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwzzwk&theme=tokyonight)
 
