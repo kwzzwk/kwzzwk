@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=kwzzwk&color=green" 
+    src="https://komarev.com/ghpvc/?username=kwzzwk&color=black" 
     alt="Visitor Count" 
     style="border-radius: 4px; height: 40px; width: 220px;"
   />
