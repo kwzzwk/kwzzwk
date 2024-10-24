@@ -32,6 +32,6 @@
 
 ![kwzzwk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwzzwk&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwzzwk&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwzzwk&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwzzwk&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwzzwk&layout=compact&theme=dark)
