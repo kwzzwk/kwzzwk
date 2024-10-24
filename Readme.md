@@ -27,7 +27,7 @@
 ---
 
 <a href="https://github.com/testaustime/">
-    <img src="http://github-readme-testaustime.vercel.app/api/testaustime?username=kwzzwk"/>
+    <img src="http://github-readme-testaustime.vercel.app/api/testaustime?username=kwzzwk&theme=dark"/>
 </a>
 
 ![kwzzwk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwzzwk&show_icons=true&theme=tokyonight)
