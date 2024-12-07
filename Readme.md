@@ -19,7 +19,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-61DAFB?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-61DAFB?style=for-the-badge&logo=vite&logoColor=F7DF1E">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-61DAFB?style=for-the-badge&logo=next&logoColor=black">
+  <img alt="Next.js" src="https://img.shields.io/badge/Nextjs-61DAFB?style=for-the-badge&logo=next&logoColor=black">
 </div>
 
 ---
