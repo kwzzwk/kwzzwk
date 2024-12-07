@@ -20,6 +20,7 @@
   <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-61DAFB?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-323330?style=for-the-badge&logo=vite&logoColor=pink">
   <img alt="Next" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next&logoColor=black">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-007ACC?style=for-the-badge&logo=next&logoColor=white">
 </div>
 
 ---
